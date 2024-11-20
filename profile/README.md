@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/meldiu.png" alt="------------" width=150>
+  <img src="/images/banner-meldiu-2.png" alt="Banner GitHub Meldiu" width="1300">
 </div>
 
 </br>
